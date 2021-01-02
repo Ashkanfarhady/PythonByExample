@@ -1,8 +1,10 @@
 """
-Python is dynamically typed language ( and it's awesome :D )
-It means thay you don't have the specify the type of your variables.
-** Python is case-sensitive
+Python is a dynamically typed language ( and it's awesome :D )
+It means that you don't have to specify the type of your variables.
 Let's see the example:
+
+** Python is case-sensitive
+
 
 """
 
